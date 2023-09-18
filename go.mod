@@ -3,7 +3,7 @@ module github.com/alexlast/bunmicro
 go 1.21.0
 
 require (
-	github.com/uptrace/bun v1.1.15
+	github.com/uptrace/bun v1.1.16
 	go-micro.dev/v4 v4.10.2
 )
 
