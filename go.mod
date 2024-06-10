@@ -4,7 +4,7 @@ go 1.21.0
 
 require (
 	github.com/uptrace/bun v1.2.1
-	go-micro.dev/v4 v4.10.2
+	go-micro.dev/v4 v4.11.0
 )
 
 require (
